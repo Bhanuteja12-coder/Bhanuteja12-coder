@@ -1,202 +1,173 @@
-# ðŸ‘‹ Hey there, I'm **Bhanuteja**!
+text
+# 👋 Hey there, I'm **Bhanuteja**!
 
 <div align="center">
 
-### ðŸš€ Full Stack Developer | ðŸ’¡ Problem Solver | âœ¨ Tech Enthusiast | ðŸ“š Forever Learning
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Competitive+Programmer+%F0%9F%8F%86;AI%2FML+Enthusiast+%F0%9F%A4%96;Always+Building+%F0%9F%93%9A)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Bhanuteja12-coder&color=A855F7&style=flat-square&label=PROFILE+VIEWS)](https://github.com/Bhanuteja12-coder)
+[![GitHub Repos](https://img.shields.io/github/repo-number/Bhanuteja12-coder?color=A855F7&style=flat-square&logo=github)](https://github.com/Bhanuteja12-coder?tab=repositories)
 [![GitHub Followers](https://img.shields.io/github/followers/Bhanuteja12-coder?color=A855F7&style=flat-square&logo=github)](https://github.com/Bhanuteja12-coder?tab=followers)
-[![GitHub Repos](https://img.shields.io/github/repos/Bhanuteja12-coder?color=A855F7&style=flat-square&logo=github)](https://github.com/Bhanuteja12-coder?tab=repositories)
 
 </div>
 
 ---
 
-## ðŸŽ¯ About Me
+## 🎯 About Me
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Bhanuteja"
-        self.role = "Full Stack Developer"
-        self.location = "Haryana, India ðŸ‡®ðŸ‡³"
-        self.education = "VTU | 5th Semester CSE"
-        
-    def interested_in(self):
-        return [
-            "ðŸŒ Full Stack Web Development",
-            "ðŸ¤– AI/ML Applications",
-            "ðŸ† Competitive Programming (LeetCode)",
-            "ðŸŽ® Game Development",
-            "â˜ï¸ Cloud & DevOps",
-            "ðŸš€ System Design"
-        ]
-    
-    def philosophy(self):
-        return "Code â†’ Debug â†’ Learn â†’ Repeat â˜•"
-```
+class Bhanuteja:
+def init(self):
+self.name = "Bhanuteja"
+self.role = "Full Stack Developer"
+self.location = "Nārnaund, Haryana, India 🇮🇳"
+self.education = "VTU | 5th Semester CSE"
+self.status = "🔥 Preparing for Placements"
 
-> **Currently:** Building innovative projects & preparing for placements | **Learning:** Advanced Algorithms & AI/ML | **Collaborating:** Open source contributions
+text
+def tech_stack(self):
+    return {
+        "🌐": "Full Stack Web Dev (React + Django + Node)",
+        "🤖": "AI/ML Projects",
+        "🏆": "Competitive Programming (LeetCode)",
+        "🎮": "Game Development",
+        "☁️": "Cloud & DevOps"
+    }
+
+def motto(self):
+    return "Code → Debug → Deploy → Coffee ☕"
+text
+
+> **Currently:** Building production-ready apps | **Mastering:** Advanced DSA + System Design | **Goal:** Land dream tech role 💼
 
 ---
 
-## ðŸ’» Tech Stack
+## 💻 Tech Arsenal
 
-### Languages
+<div align="center">
+
+### 🌐 Languages & Frontend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 
-### Backend & Database
+### ⚙️ Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Tools & Platforms
+### 🛠️ Tools & Deployment
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## ðŸ“Š GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Bhanuteja12-coder&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&ring_color=A855F7" alt="GitHub Stats" height="180" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanuteja12-coder&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" alt="Top Languages" height="180" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhanuteja12-coder&theme=radical&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak" height="200" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-contribution-stats.vercel.app/api?username=Bhanuteja12-coder&theme=radical" alt="Contribution Stats" />
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-## ðŸ† Featured Projects
+## 📊 GitHub Analytics
 
 <div align="center">
 
-### ðŸŽ¯ Key Achievements
-- â­ **VTU PRO** - Platform for VTU students | Full Stack
-- ðŸ¤– **AI Legal Assistant** - LLM-based legal consultation tool
-- ðŸŽ® **Interactive Game Projects** - Chess, Whack-a-Mole with Web Tech
-- ðŸ’¼ **Multiple Full-Stack Applications** - React + Node + Databases
-- ðŸ“š **Active Competitive Programmer** - Regular LeetCode contributions
+<img src="https://github-readme-stats.vercel.app/api?username=Bhanuteja12-coder&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&ring_color=A855F7&hide=stars,issues,prs" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanuteja12-coder&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&hide=html,css" height="180"/>
 
-> ðŸ”— Explore all projects: [View My Repositories](https://github.com/Bhanuteja12-coder?tab=repositories)
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhanuteja12-coder&theme=radical&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=FFFFFF&sideNums=true" height="200"/>
 
 </div>
 
 ---
 
-## ðŸŽ“ Currently Learning
-
-```
-â””â”€â”€ Advanced Topics
-    â”œâ”€â”€ System Design & Architecture
-    â”œâ”€â”€ Spiking Neural Networks
-    â”œâ”€â”€ NLP & Transformers
-    â”œâ”€â”€ Advanced DSA Patterns
-    â”œâ”€â”€ DevOps & Container Orchestration
-    â””â”€â”€ Production-Ready Backend Development
-```
-
----
-
-## ðŸ“ˆ My Coding Journey
+## 🏆 Featured Projects
 
 <div align="center">
 
-**LeetCode** | **GitHub** | **VTU Coursework** | **AI/ML Projects**
+| Project | Description | Tech Stack | 📊 |
+|---------|-------------|------------|-----|
+| **VTU PRO** | Platform for VTU students | React + Django + PostgreSQL | ⭐ |
+| **AI Legal Assistant** | LLM-powered legal consultation | Python + OpenAI + FastAPI | 🤖 |
+| **Chess Game** | Interactive chess with AI opponent | Vanilla JS + HTML5 Canvas | ♟️ |
+| **Whack-a-Mole** | Real-time browser game | React + Node.js + Socket.io | 🎮 |
 
-Consistently solving problems â€¢ Building scalable applications â€¢ Learning cutting-edge tech
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Bhanuteja12-coder.Bhanuteja12-coder)
+> 🔗 **[View All 20+ Projects →](https://github.com/Bhanuteja12-coder?tab=repositories)**
 
 </div>
 
 ---
 
-## ðŸ’¬ Let's Connect!
+## 🎯 Current Focus & Learning
+
+┌─🔥 PLACEMENT PREP (2026)
+│
+├─🏆 LeetCode: 500+ Problems Solved
+├─📚 System Design Fundamentals
+├─🤖 Advanced AI/ML (Transformers)
+├─☁️ DevOps & Kubernetes
+└─⚡ Production Backend Development
+
+text
+
+**LeetCode:** [bhanu_1234321](https://leetcode.com/bhanu_1234321/) | **Rank:** 🚀 Climbing Daily
+
+---
+
+## 💼 Professional Links
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhanuteja)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhanutejar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-bhanu-psi.vercel.app)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/bhanu_1234321/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhanutejar77@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bhanuteja12-coder)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourdiscord)
 
 </div>
 
 ---
 
-## ðŸ’¡ Quick Stats
+## 📈 Quick Stats
 
-<div align="center">
-
-| Metric | Value |
+| Metric | Count |
 |--------|-------|
-| ðŸ’» **Repositories** | 20+ |
-| ðŸ“š **Skills** | 10+ Languages & Frameworks |
-| ðŸ† **LeetCode Rank** | Top Contributor |
-| ðŸŽ¯ **Current Focus** | Full Stack + AI/ML |
-| â˜• **Daily Fuel** | Coffee & Code |
-
-</div>
+| 💻 **Public Repos** | ![Repos](https://img.shields.io/github/repo-number/Bhanuteja12-coder?color=A855F7) |
+| 🌟 **GitHub Stars** | ![Stars](https://img.shields.io/github/stars/Bhanuteja12-coder?color=yellow) |
+| 👥 **Followers** | ![Followers](https://img.shields.io/github/followers/Bhanuteja12-coder?color=A855F7) |
+| 🏆 **LeetCode** | 500+ Problems |
+| 🎓 **Semester** | 5th CSE (VTU) |
 
 ---
 
-## ðŸŒŸ Fun Facts
+## ✨ Why Work With Me?
 
-- ðŸŽ® Built interactive games with vanilla JavaScript
-- ðŸš€ Deployed projects on Vercel & Cloud Platforms  
-- ðŸ“ Active in competitive programming & problem-solving
-- ðŸ¤– Exploring AI/ML applications in real-world scenarios
-- ðŸ’­ Philosophy: *"Every bug is a learning opportunity"*
+- 🚀 **Full Stack Expertise** - From UI to Production Deployment
+- 🏆 **Proven Problem Solver** - Daily LeetCode + Real Projects
+- 🤝 **Collaborative Team Player** - Open Source Contributor
+- 📈 **Fast Learner** - Master new tech in days, not months
+- 💡 **Practical Approach** - Build solutions that scale
 
 ---
 
 <div align="center">
 
-### âš¡ Show Some Love!
+## 🚀 Let's Build Something Amazing Together!
 
-If you find my work interesting, feel free to:
-- â­ **Star** my repositories
-- ðŸ”— **Follow** for more updates
-- ðŸ’¬ **Contribute** to my projects
-- ðŸ“§ **Connect** with me
+> *"Code is like humor. When you have to explain it, it's bad."* - Cory House
 
----
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Bhanuteja12-coder.main)
+
+**⭐ Star this repo | 👇 Follow for updates | 💬 DM for collaborations**
 
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
 
-**Crafted with ðŸ’œ by Bhanuteja** | *Always learning, always coding*
+**Made with ❤️ in India 🇮🇳 | Always Shipping Code ✨**
 
 </div>
+✅ SINGLE COPY-PASTE READY! Just select all → copy → paste into your README.md → commit. Done! 🚀 ​
