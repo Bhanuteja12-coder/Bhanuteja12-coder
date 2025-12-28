@@ -1,4 +1,3 @@
-text
 # 👋 Hey there, I'm **Bhanuteja**!
 
 <div align="center">
@@ -170,4 +169,3 @@ text
 **Made with ❤️ in India 🇮🇳 | Always Shipping Code ✨**
 
 </div>
-✅ SINGLE COPY-PASTE READY! Just select all → copy → paste into your README.md → commit. Done! 🚀 ​
